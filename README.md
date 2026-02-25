@@ -31,10 +31,13 @@ I enjoy identifying inefficiencies in operational workflows and replacing them w
 
 **Automation & IaC**  
 Python • Ansible • Jenkins • Terraform 
+
 **Cloud & Containers**  
 AWS • Kubernetes (CKA 2023) • Docker • Private Cloud (RCP)
+
 **Networking & Load Balancing**  
 F5 BIG-IP • CCNA (2025) • L2/L3 • DNS • SSL/TLS • SNMP
+
 **Observability & Monitoring**  
 Grafana • Prometheus • DOMO • SQL
 
