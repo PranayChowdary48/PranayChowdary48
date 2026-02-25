@@ -58,6 +58,7 @@ A progression from containerization to cloud architecture:
 - AWS Certified Developer – Associate (2026)
 - CCNA (2025)
 - Certified Kubernetes Administrator (CKA 2023)
+- Hashicorp Terraform Associate (In Progress)
 
 ---
 
