@@ -2,11 +2,22 @@
 
 DevOps / Platform Engineer specializing in large-scale infrastructure automation.
 
-I build automation platforms that manage enterprise-grade load balancing infrastructure supporting millions of users across **3 geographically distributed production data centers**.
+I enjoy identifying inefficiencies in operational workflows and replacing them with structured, reliable automation platforms. My work revolves around designing systems that reduce manual effort, improve deployment safety, and increase operational visibility. I build automation platforms that manage enterprise-grade load balancing infrastructure supporting millions of users
 
 ---
 
-## 🚀 What I Focus On
+## 🚀 What I Work On
+
+- Infrastructure Automation (Python, Ansible)
+- CI/CD-driven infrastructure deployment
+- AWS & Kubernetes platforms
+- Enterprise load balancing (F5 BIG-IP)
+- Operational intelligence & monitoring systems
+- Large-scale configuration management & validation frameworks
+
+---
+
+## 🏗 Current Focus
 
 - Automating Day0 / Day1 / Day2 infrastructure lifecycle
 - Building CI/CD-driven infrastructure pipelines
@@ -16,28 +27,16 @@ I build automation platforms that manage enterprise-grade load balancing infrast
 
 ---
 
-## 🏗 Infrastructure Scale
-
-- 650+ F5 BIG-IP instances (450 Production, 200 QA)
-- 3 production data centers in different geographic locations
-- Full automation of validation, onboarding, deployment, backup, and rebuild workflows
-- Monitoring platform built using SNMP telemetry, Grafana and DOMO dashboards
-
----
-
 ## 🛠 Automation & Engineering Stack
 
 **Automation & IaC**  
-Python • Ansible • Jenkins • Terraform (in progress)
-
+Python • Ansible • Jenkins • Terraform 
 **Cloud & Containers**  
 AWS • Kubernetes (CKA 2023) • Docker • Private Cloud (RCP)
-
 **Networking & Load Balancing**  
 F5 BIG-IP • CCNA (2025) • L2/L3 • DNS • SSL/TLS • SNMP
-
 **Observability & Monitoring**  
-Grafana • Prometheus • DOMO • Logging automation
+Grafana • Prometheus • DOMO • SQL
 
 ---
 
@@ -50,6 +49,20 @@ A progression from containerization to cloud architecture:
 - ☁️ Mood of the Day – AWS (CloudFormation + CDK, ECS, WAF, CloudFront, DR)
 - ⚡ AWS Serverless (in progress)
 - 🧰 Infrastructure Automation Toolkit (in progress)
+
+---
+
+## 🧠 Engineering Approach
+
+I believe automation should:
+
+- Eliminate repetitive manual work  
+- Improve safety and auditability  
+- Provide validation before execution  
+- Be observable and measurable  
+- Scale without increasing operational complexity  
+
+Good systems don't just deploy — they validate, monitor, and explain themselves.
 
 ---
 
