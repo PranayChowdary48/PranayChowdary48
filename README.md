@@ -1,52 +1,53 @@
 # Hi, I'm Pranay 👋
 
-DevOps / Platform Engineer (Software Engineer by title) focused on large-scale infrastructure automation and reliability engineering.
+DevOps / Platform Engineer specializing in large-scale infrastructure automation.
 
-I work on enterprise-grade load balancing and cloud environments supporting millions of users across multi-data-center production systems.
-
----
-
-## 🚀 What I Do
-
-- Automate Day0 / Day1 / Day2 infrastructure lifecycle using Python + Ansible
-- Design CI/CD pipelines for infrastructure deployment (Jenkins)
-- Improve reliability through monitoring, dashboards, and proactive automation
-- Reduce manual operational workflows from hours (or weeks) to minutes
+I build automation platforms that manage enterprise-grade load balancing infrastructure supporting millions of users across **3 geographically distributed production data centers**.
 
 ---
 
-## 🏗 Infrastructure Scale Experience
+## 🚀 What I Focus On
+
+- Automating Day0 / Day1 / Day2 infrastructure lifecycle
+- Building CI/CD-driven infrastructure pipelines
+- Eliminating repetitive operational work using Python & Ansible
+- Designing internal automation platforms instead of manual runbooks
+- Improving reliability through monitoring and proactive validation
+
+---
+
+## 🏗 Infrastructure Scale
 
 - 650+ F5 BIG-IP instances (450 Production, 200 QA)
-- 3 production data centers with multi-region resiliency
-- Monitoring platform built with SNMP + Grafana + DOMO
-- Automation platform integrated into CI/CD pipelines
+- 3 production data centers in different geographic locations
+- Full automation of validation, onboarding, deployment, backup, and rebuild workflows
+- Monitoring platform built using SNMP telemetry, Grafana and DOMO dashboards
 
 ---
 
-## 🛠 Tech Stack
-
-**Cloud & Containers**  
-AWS • Kubernetes (CKA 2023) • Private Cloud • Docker
+## 🛠 Automation & Engineering Stack
 
 **Automation & IaC**  
 Python • Ansible • Jenkins • Terraform (in progress)
 
-**Networking**  
+**Cloud & Containers**  
+AWS • Kubernetes (CKA 2023) • Docker • Private Cloud (RCP)
+
+**Networking & Load Balancing**  
 F5 BIG-IP • CCNA (2025) • L2/L3 • DNS • SSL/TLS • SNMP
 
-**Observability**  
+**Observability & Monitoring**  
 Grafana • Prometheus • DOMO • Logging automation
 
 ---
 
 ## 📌 DevOps Learning Series
 
-A hands-on progression from Docker → Kubernetes → AWS → Automation:
+A progression from containerization to cloud architecture:
 
-- 🐳 **Mood of the Day – Docker**
-- ☸️ **Mood of the Day – Kubernetes**
-- ☁️ **Mood of the Day – AWS (CloudFormation + CDK)**
+- 🐳 Mood of the Day – Docker (multi-service, observability-first design)
+- ☸️ Mood of the Day – Kubernetes (HPA, rollouts, network policies, traffic control)
+- ☁️ Mood of the Day – AWS (CloudFormation + CDK, ECS, WAF, CloudFront, DR)
 - ⚡ AWS Serverless (in progress)
 - 🧰 Infrastructure Automation Toolkit (in progress)
 
@@ -57,9 +58,8 @@ A hands-on progression from Docker → Kubernetes → AWS → Automation:
 - AWS Certified Developer – Associate (2026)
 - CCNA (2025)
 - Certified Kubernetes Administrator (CKA 2023)
-- Hashicorp Terraform Associate (In Prgress)
 
 ---
 
-📫 Open to DevOps, Platform Engineering, and Infrastructure-focused Software Engineering roles  
+📫 Open to DevOps, Platform Engineering, and Infrastructure Automation roles  
 Japan • Australia • India • Remote
